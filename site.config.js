@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Download my Resume`,
-      href: "/resume_nishchay.pdf",
+      name: `View Resume`,
+      href: "/resume",
     },
   ],
   // blog setting (required)
