@@ -2,24 +2,24 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "nishchaysinha",
-    image: "https://avatars.githubusercontent.com/u/61420072", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "ML/Backend developer",
     bio: "everything can be automated.",
     email: "nishchay.space@gmail.com",
     linkedin: "nishchay-sinha-729a72233",
     github: "nishchaysinha",
-    instagram: "",
+    instagram: "nishchay.sinha",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Download my Resume`,
+      href: "/resume_nishchay.pdf",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "nishchay-sinha",
+    description: "welcome to my page!",
   },
 
   // CONFIG configration (required)
